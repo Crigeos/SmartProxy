@@ -1,0 +1,11 @@
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\bin\Debug\net6.0\Common.deps.json
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\bin\Debug\net6.0\Common.dll
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\bin\Debug\net6.0\ref\Common.dll
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\bin\Debug\net6.0\Common.pdb
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.dll
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\ref\Common.dll
+D:\UTM\Anul 4\PAD\Smart Proxy\Common\obj\Debug\net6.0\Common.pdb

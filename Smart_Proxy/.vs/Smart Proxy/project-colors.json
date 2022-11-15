@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b8b7b26-7ec3-493c-853e-ef06a71adbe3": {
+      "ProjectGuid": "9b8b7b26-7ec3-493c-853e-ef06a71adbe3",
+      "DisplayName": "MovieAPI",
+      "ColorIndex": 0
+    },
+    "3e5a224b-8ff9-4893-8e16-8b6ccb5fa812": {
+      "ProjectGuid": "3e5a224b-8ff9-4893-8e16-8b6ccb5fa812",
+      "DisplayName": "MovieAPI",
+      "ColorIndex": 1
+    },
+    "be523ea5-91af-4e0e-9439-46a0adf5aab1": {
+      "ProjectGuid": "be523ea5-91af-4e0e-9439-46a0adf5aab1",
+      "DisplayName": "Common",
+      "ColorIndex": 2
+    },
+    "92ecb002-6dd8-45f5-a31b-6cce08727bd1": {
+      "ProjectGuid": "92ecb002-6dd8-45f5-a31b-6cce08727bd1",
+      "DisplayName": "Proxy",
+      "ColorIndex": 3
+    },
+    "c97a08cd-af91-4d09-8e57-75f36d9e3680": {
+      "ProjectGuid": "c97a08cd-af91-4d09-8e57-75f36d9e3680",
+      "DisplayName": "Proxy",
+      "ColorIndex": 4
+    },
+    "ae3656a6-9cdf-430c-8b8d-556f333cdd14": {
+      "ProjectGuid": "ae3656a6-9cdf-430c-8b8d-556f333cdd14",
+      "DisplayName": "Proxy",
+      "ColorIndex": 5
+    },
+    "c44e719c-ed31-4e52-9b12-9253b3b984c3": {
+      "ProjectGuid": "c44e719c-ed31-4e52-9b12-9253b3b984c3",
+      "DisplayName": "Proxy",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "14c112fb-63c4-4d6d-be41-e9021e11b9d1": {
+      "ProjectGuid": "14c112fb-63c4-4d6d-be41-e9021e11b9d1",
+      "DisplayName": "SyncNode",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

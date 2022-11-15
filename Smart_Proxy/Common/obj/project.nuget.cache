@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "axfq6/PWTHQCRBT2pEKMCR2/R0JZ2DwkHh5Tzj6L+/wmeJ0SfR4XCO3dzpkvUU4vuUAKHxbyBjgQacDRd/ur/g==",
+  "success": true,
+  "projectFilePath": "D:\\UTM\\Anul 4\\PAD\\Smart Proxy\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lords\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\lords\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
